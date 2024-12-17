@@ -6,7 +6,7 @@ import torch
 from torch.utils.data import Dataset
 
 
-access_token = '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'
+access_token = 'use your own hf token'
 
 
 
