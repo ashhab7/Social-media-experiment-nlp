@@ -1,0 +1,6 @@
+Probability for the post being positive in sense ---{Positive_probability}---
+Probability for the post being negative in sense ---{Negative_probability}---
+
+Your answer should be precise whether it will be flagged or not and also should include why.
+For example your answer should be something like
+Answer: The post is positive and describe the reason

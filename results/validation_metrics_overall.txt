@@ -1,0 +1,100 @@
+Validation Accuracy: 0.8004
+Confusion Matrix:
+65367	14440
+17496	62697
+
+Metrics:
+Overall Precision: 0.8003999999999996
+Overall Recall: 0.8003999999999996
+Overall F1 Score: 0.8003999999499994
+
+
+
+Model Name: chunked_model_2_128_0.1.pth
+Validation Accuracy: 0.49879375
+Confusion Matrix:
+79807	0
+80193	0
+
+Metrics:
+Overall Precision: 0.4987937499999997
+Overall Recall: 0.9999999999999988
+Overall F1 Score: 0.6655935814607178
+____________________________
+Model Name: chunked_model_2_128_0.001.pth
+Validation Accuracy: 0.8043375
+Confusion Matrix:
+63683	16124
+15182	65011
+
+Metrics:
+Overall Precision: 0.8074938185506868
+Overall Recall: 0.7979625847356738
+Overall F1 Score: 0.8026999091967488
+____________________________
+Model Name: chunked_model_2_128_0.0001.pth
+Validation Accuracy: 0.80680625
+Confusion Matrix:
+65257	14550
+16361	63832
+
+Metrics:
+Overall Precision: 0.7995417677473097
+Overall Recall: 0.8176851654616752
+Overall F1 Score: 0.8085116926865703
+____________________________
+Model Name: chunked_model_2_128_0.0005.pth
+Validation Accuracy: 0.80499375
+Confusion Matrix:
+64102	15705
+15496	64697
+
+Metrics:
+Overall Precision: 0.8053217417523043
+Overall Recall: 0.8032127507612103
+Overall F1 Score: 0.8042658636305611
+____________________________
+Model Name: chunked_model_2_256_0.1.pth
+Validation Accuracy: 0.50120625
+Confusion Matrix:
+0	79807
+0	80193
+
+Metrics:
+Overall Precision: 0.0
+Overall Recall: 0.0
+Overall F1 Score: 0.0
+____________________________
+Model Name: chunked_model_2_256_0.001.pth
+Validation Accuracy: 0.80595625
+Confusion Matrix:
+63804	16003
+15044	65149
+
+Metrics:
+Overall Precision: 0.8092025162337652
+Overall Recall: 0.7994787424661987
+Overall F1 Score: 0.8043112413227906
+____________________________
+Model Name: chunked_model_2_256_0.0001.pth
+Validation Accuracy: 0.80931875
+Confusion Matrix:
+64822	14985
+15524	64669
+
+Metrics:
+Overall Precision: 0.8067856520548617
+Overall Recall: 0.8122345157692924
+Overall F1 Score: 0.8095009147002696
+____________________________
+Model Name: chunked_model_2_256_0.0005.pth
+Validation Accuracy: 0.80529375
+Confusion Matrix:
+64202	15605
+15548	64645
+
+Metrics:
+Overall Precision: 0.8050407523510962
+Overall Recall: 0.8044657736789995
+Overall F1 Score: 0.8047531602626146
+____________________________

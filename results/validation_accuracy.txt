@@ -1,0 +1,8 @@
+lr = 0.1,hidden size = 128 ,Validation Accuracy: 0.49879375
+lr = 0.001,hidden size = 128 ,Validation Accuracy: 0.8043375
+lr = 0.0001,hidden size = 128 ,Validation Accuracy: 0.80680625
+lr = 0.0005,hidden size = 128 ,Validation Accuracy: 0.80499375
+lr = 0.1,hidden size = 256 ,Validation Accuracy: 0.50120625
+lr = 0.001,hidden size = 256 ,Validation Accuracy: 0.80595625
+lr = 0.0001,hidden size = 256 ,Validation Accuracy: 0.80931875
+lr = 0.0005,hidden size = 256 ,Validation Accuracy: 0.80529375
