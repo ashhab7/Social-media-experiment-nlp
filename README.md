@@ -1,4 +1,5 @@
 Download data set from : https://www.kaggle.com/datasets/kazanova/sentiment140
+
 For training neural network, update the dataset filepath in chunk.py and run it
 For evaluating neural network, update the dataset filepath in chunk_eval.py and run it
 
